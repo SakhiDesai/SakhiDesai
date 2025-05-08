@@ -57,7 +57,7 @@
 <h2>Stats</h2>
 
 <br>
-<!-- <div align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img width=390 src="https://streak-stats.demolab.com/?user=SakhiDesai&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
   </a>
@@ -65,7 +65,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakhiDesai&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
- -->
+
 <br/><br/>
 
 <hr/>
